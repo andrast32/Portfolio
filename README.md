@@ -1,3 +1,4 @@
 #my portfolio
 
-hello, welcome to my github
+Untuk akses website ini silahkan klik tautan berikut
+https://andrast32.github.io/Portfolio/
